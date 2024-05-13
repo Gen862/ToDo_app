@@ -1,7 +1,7 @@
 # ToDo_app
-Application function: Create and manage daily tasks
-language to user: Portuguese 
-Deploy: https://gen862.github.io/ToDo_app/ 👈
+-Application function: Create and manage daily tasks.
+-Language to user: Portuguese. 
+-Deploy: https://gen862.github.io/ToDo_app/ 👈
 
 # Getting Started with Create React App
 
